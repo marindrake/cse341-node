@@ -1,1 +1,20 @@
+//API
+//
+//"professionalName": "Alex G. Marin"
+//"base64Image":
+//"nameLink":
+//  "firstName": "Alex",
+    //"url": "https://marindrake.github.io/#"
+  //
+// "primaryDescription": "Profile"
+// "workDescription1": "Computer programming"
+// "workDescription2": "Web Frontend"
+// "linkTitleText": "Links"
+// "linkedInLink":
+//   "text": "Linkedin"
+//   "link": "https://www.linkedin.com/in/alejandro-garcia-376070138/"
+// "githubLink":
+//   "text": "Love Calculator"
+//   "link": "https://marindrake.github.io/project/index.html"
+//
 GET http://localhost:8080/professional
